@@ -6,4 +6,4 @@ Once accepted, let the prof. know the git address of each group, so that he can 
 
 programming assignment will be submitted here.
 
-Seehwan Yoo
+Prof. Seehwan Yoo @ DKU,CIS.MSE
